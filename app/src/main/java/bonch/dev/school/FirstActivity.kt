@@ -30,6 +30,7 @@ class FirstActivity : AppCompatActivity() {
         }
 
         SetListeners()
+
     }
 
     private fun InitializeViews()
